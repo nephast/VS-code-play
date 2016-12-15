@@ -10,8 +10,6 @@ http.createServer
 var index = require('./routes/index');
 var users = require('./routes/users');
 
-routes.
-
 var app = express();
 
 // view engine setup
